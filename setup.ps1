@@ -1,0 +1,1 @@
+$env:GOOGLE_APPLICATION_CREDENTIALS="D:\Utilisateurs\Nabil\Documents\FullprojectHawaw\talkingfenrir-lprg-4c6027af1b17.json"
